@@ -88,7 +88,7 @@ contract PublicAddress {
     // so this has been an introduction to addresses in Solidity, how to declare them, use them, and interact with external contracts using their addresses, and how to send Ether to payable addresses, and how to handle the success or failure of the transfer using require() function
 
     // so in normal programming itwould be like calling other packages or libraries, but in solidity you are calling other contracts that are already deployed on the blockchain,
-    // and the only way to reference those contracts is by their address, and then you can call their functions or send them Ether using their address
+    // and the only way to reference those contracts is by their address, and then you can call their functions or send them Ether using their address.
 
 
 }
